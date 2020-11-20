@@ -32,4 +32,5 @@ namespace FirstWcfService
             return num1 / num2;
         }
     }
+
 }
